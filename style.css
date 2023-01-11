@@ -1,0 +1,63 @@
+ .breadcrumb-item a{
+    color: rgb(237, 234, 234);
+    text-decoration: none;
+}
+/* .bannerheading{
+    
+ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}  */
+
+
+.banner{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(62, 62, 62);
+    color: white;
+    
+}
+.banner img
+{
+    margin-left: 150px;
+    filter:contrast(1.2)
+}
+.banner-2
+{
+    margin-top: 150px;
+    width: auto;
+    margin-right: 150px;
+}
+.banner-2 span
+{
+    font-size: 3rem;
+    color: yellow;
+}
+
+
+
+.list-group-item{
+    background-color: rgb(62, 62, 62);
+    color: white;
+}
+.skills{
+    background-color: rgb(62, 62, 62);
+    color: yellow;
+}
+.works{
+    background-color: rgb(62, 62, 62);
+    color: yellow;
+    padding-top:10px ;
+    padding-bottom: 4mm;
+    /* border-bottom:2px solid yellow ; */
+}
+
+
+.br-btm
+{
+    border-bottom: 2px solid yellow;
+    background-color: rgb(62, 62, 62);
+}
+.background{
+    background-color: rgb(62, 62, 62);
+}
+
